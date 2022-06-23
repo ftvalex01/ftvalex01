@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies 
 - 🎓 &nbsp; Full Stack Developer - React, MongoDB, Express, Node, Javascript by IronHack School
 - 🌱 &nbsp; Enthusiast in learning.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for any stress. 
 - 👨🏽‍💻 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
 <h3>🛠 Tech Stack</h3>
 
