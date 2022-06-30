@@ -9,8 +9,10 @@
 - 🌱 &nbsp; Enthusiast in learning.
 - ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for any stress. 
 - 👨🏽‍💻 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
+- 👨🏽‍💻 2022 Goals: continue learning from this exciting world that is programming.
+
 <h3>🛠 Tech Stack</h3>
--👨🏽‍💻 2022 Goals: continue learning from this exciting world that is programming
+
 
 - 💻 &nbsp; React | MongoDB | ExpressJs | NodeJs
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
