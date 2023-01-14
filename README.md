@@ -30,15 +30,6 @@
 
 
 
-
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=ftvalex01&show_icons=true&hide_border=true" />
-
-
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftvalex01&layout=compact&theme=radical" alt="My Github Stats" />
-
-<br>
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 &nbsp; <a href="https://www.linkedin.com/in/alejandro-suarez-sarabia/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 
