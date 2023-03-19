@@ -9,14 +9,15 @@
 - 🌱 &nbsp; Enthusiast in learning.
 - ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for any stress. 
 - 👨🏽‍💻 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
-- 👨🏽‍💻 2022 Goals: continue learning from this exciting world that is programming.
+- 👨🏽‍💻 2022 Goals: Continue learning from this exciting world that is programming.
+- 👨🏽‍💻 2023 Goals: Continuously develop and enhance my programming skills.
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; React | MongoDB | ExpressJs | NodeJs
+- 💻 &nbsp; React | MongoDB | ExpressJs | NodeJs | MySQL
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; Firebase | Herokku 
+- 🛢 &nbsp; Firebase | Herokku | Vercel
 - 🔧 &nbsp; Visual Studio code | WebStorm | Git
 - ⚡  &nbsp; Responsive Web Desing | Rest Apis | Deploys
 
