@@ -25,9 +25,9 @@
 
 
 <img width="25%" align="left" src="https://camo.githubusercontent.com/15a941de170f97b2fef82fe902bdb29c2089bbf18ec21b0131e96081499db821/68747470733a2f2f692e696d6775722e636f6d2f717137774d57342e706e67" />
-<img width="40%" align="right" src="https://www.codewars.com/users/ftvalex01/badges/large" />
 
 
+<img width="25%" align="left" src="[https://camo.githubusercontent.com/15a941de170f97b2fef82fe902bdb29c2089bbf18ec21b0131e96081499db821/68747470733a2f2f692e696d6775722e636f6d2f717137774d57342e706e67](https://gonzapico.com/wp-content/uploads/2021/08/1_69RcxrWXuk385lSxkIYYLA.png)" />
 
 
 
