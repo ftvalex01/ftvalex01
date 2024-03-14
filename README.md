@@ -11,15 +11,16 @@
 - 👨🏽‍💻 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
 - 👨🏽‍💻 2022 Goals: Continue learning from this exciting world that is programming.
 - 👨🏽‍💻 2023 Goals: Continuously develop and enhance my programming skills.
+- 👨🏽‍💻 2024 Goals: Finish my Higher Technician in Development of Web Applications.
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; React | MongoDB | ExpressJs | NodeJs | MySQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; Firebase | Herokku | Vercel
+- 💻 &nbsp; React | MongoDB | ExpressJs | NodeJs | MySQL 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind 
+- 🛢  &nbsp; Firebase | Herokku | Vercel | VPS
 - 🔧 &nbsp; Visual Studio code | WebStorm | Git
-- ⚡  &nbsp; Responsive Web Desing | Rest Apis | Deploys
+- ⚡ &nbsp; Responsive Web Desing | Rest Apis | Deploys
 
 
 
