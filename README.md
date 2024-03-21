@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Currently studying and looking for work.
+- 🔭 Currently internship at [MNX Online](https://mnxonline.com/es/)
 - 🤔 Exploring new technologies.
 - 🎓 Full Stack Developer - Specialized in React, MongoDB, Express, Node.js, and JavaScript from IronHack School.
 - 🌱 Enthusiast in continuous learning.
