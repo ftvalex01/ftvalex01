@@ -35,7 +35,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Angular](https://img.shields.io/badge/-Git-black?style=flat-square&logo=angular)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
