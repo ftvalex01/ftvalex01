@@ -4,15 +4,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Currently looking job
+- 🔭 Working on Telespazio as junior developer
 - 🤔 Exploring new technologies.
-- 🎓 Full Stack Developer - Specialized in React, MongoDB, Express, Node.js, and JavaScript from IronHack School.
+- 🎓 Full Stack Developer - Specialized in React, MongoDB, Express, Node.js, and JavaScript.
 - 🌱 Enthusiast in continuous learning.
 - ☕ I believe a perfect cup of coffee is the ultimate solution for any stress.
 - 👨🏽‍💻 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
 - 👨🏽‍💻 2022 Goals: Continue learning from the exciting world of programming.
 - 👨🏽‍💻 2023 Goals: Continuously develop and enhance my programming skills.
-- 👨🏽‍💻 2024 Goals: Finish my Higher Technician in Web Application Development.
+- 👨🏽‍💻 2024 Goals:  I have finished Higher Technician in Web Application Development. I will work in the specialization course of artificial intelligence and big data.
 
 <br clear="right"/>
 
