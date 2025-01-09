@@ -13,6 +13,7 @@
 - 👨🏽‍💻 2022 Goals: Continue learning from the exciting world of programming.
 - 👨🏽‍💻 2023 Goals: Continuously develop and enhance my programming skills.
 - 👨🏽‍💻 2024 Goals:  I have finished Higher Technician in Web Application Development. I will work in the specialization course of artificial intelligence and big data.
+- 👨🏽‍💻 2025 Goals: Complete my AI and Big Data specialization, continue growing professionally, and deliver impactful projects.
 
 <br clear="right"/>
 
