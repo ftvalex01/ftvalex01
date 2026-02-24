@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Working on Telespazio as junior developer
+- 🔭 Working on Telespazio as fullstack developer
 - 🤔 Exploring new technologies.
 - 🎓 Full Stack Developer - Specialized in React, MongoDB, Express, Node.js, and JavaScript.
 - 🌱 Enthusiast in continuous learning.
@@ -14,6 +14,7 @@
 - 👨🏽‍💻 2023 Goals: Continuously develop and enhance my programming skills.
 - 👨🏽‍💻 2024 Goals:  I have finished Higher Technician in Web Application Development. I will work in the specialization course of artificial intelligence and big data.
 - 👨🏽‍💻 2025 Goals: Complete my AI and Big Data specialization, continue growing professionally, and deliver impactful projects.
+- 👨🏽‍💻 2026 Goals: Continue training in the AI sector and continue growing professionally.
 
 <br clear="right"/>
 
